@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on personal projects and indie games.
 - 📫 How to reach me: www.linkedin.com/in/jason-canuel-2a454a22b
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm from a family of 8.
+- ⚡ Fun fact: I have 5 siblings.
 
 <!---
 JasonCanuel/JasonCanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
